@@ -56,12 +56,12 @@ function App() {
             </a>
           </li>
           <li>
-            <a href="https://twitter.com/the_aayush_jain" alt="#">
+            <a href="https://www.linkedin.com/in/aayush-jain-code/" alt="#">
               <i class="fab fa-linkedin">&nbsp;LinkedIn</i>
             </a>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/aayush-jain-code/" alt="#">
+            <a href="https://twitter.com/the_aayush_jain" alt="#">
               <i class="fab fa-twitter">&nbsp;Twitter</i>
             </a>
           </li>
